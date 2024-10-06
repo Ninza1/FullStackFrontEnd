@@ -1,0 +1,12 @@
+
+/* LOGIN , SINGUP CREATEPRODOUCT STYLES ARE  */
+.login, .singup, .create-product {
+    max-width: 50%;
+    padding: 2rem 2.5rem;
+    box-shadow: 0 0 5px lightblue;
+    border-radius: 0.5rem;
+    border: none;
+    margin: auto;
+    margin-top: 3%;
+
+}
